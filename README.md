@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my fist Git Repository.
-Suman choudhury
+Author_Suman Choudhury
